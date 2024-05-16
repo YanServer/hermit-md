@@ -1,5 +1,5 @@
 {
-  "name": "hermit-md",
+  "name": "yan-md",
   "description": " Whatsapp bot.",
   "keywords": [
     "whatsapp bot"
@@ -48,17 +48,17 @@
     "BOT_INFO": {
       "description": "botname;ownername;ownernumber;image url",
       "required": true,
-      "value": "ʜᴇʀᴍɪᴛ;ᴀᴅɪᴛʜyᴀɴ;972528277755;https://i.imgur.com/pbNNWfM.jpeg"
+      "value": "𝐘𝐚𝐧𝐁𝐨𝐭𝐳;𝐀𝐑𝐘𝐀𝐍;6282313360152;https://i.imgur.com/pbNNWfM.jpeg"
     },
     "STICKER_DATA": {
       "description": "sticker package name",
       "required": true,
-      "value": "ʜᴇʀᴍɪᴛ;ᴀᴅɪᴛʜyᴀɴ"
+      "value": "𝐂𝐫𝐞𝐚𝐭𝐞 𝐁𝐲;𝐘𝐚𝐧"
     },
     "AUDIO_DATA": {
       "description": "audio package name",
       "required": true,
-      "value": "ʜᴇʀᴍɪᴛ;ᴀᴅɪᴛʜyᴀɴ;https://i.imgur.com/pbNNWfM.jpeg"
+      "value": "𝐘𝐚𝐧𝐁𝐨𝐭𝐳;𝐀𝐑𝐘𝐀𝐍;https://i.imgur.com/pbNNWfM.jpeg"
     },
     "READ_MSG": {
       "description": "Read all messages",
